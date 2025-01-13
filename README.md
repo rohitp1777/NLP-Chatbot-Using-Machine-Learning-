@@ -23,8 +23,8 @@ How to Use
 Clone this repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/chatbot-ml.git
+Copy code 
+git clone [https://github.com/your-username/chatbot-ml.git](https://github.com/rohitp1777/NLP-Chatbot-Using-Machine-Learning-/blob/main/Final%20%20Output.pdf)
 Navigate to the project folder:
 
 bash
